@@ -1,0 +1,7 @@
+Flask 
+google-genai 
+flask-cors
+crewai 
+langchain-google-genai 
+pydantic
+google-generativeai

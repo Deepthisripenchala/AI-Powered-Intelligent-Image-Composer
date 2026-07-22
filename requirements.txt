@@ -1,0 +1,7 @@
+flask
+flask-cors
+google-generativeai==0.5.2
+Pillow
+numpy
+opencv-python
+requests
