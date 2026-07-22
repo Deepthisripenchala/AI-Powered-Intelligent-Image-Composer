@@ -58,4 +58,4 @@ Requests
 
 # License
 MIT License © 2025
-"# AI-Powered-Intelligent-Image-Composer" 
+
