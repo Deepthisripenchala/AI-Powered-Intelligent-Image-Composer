@@ -1,14 +1,14 @@
-# 🎨 AI Image Generator, Blender & Auto-Adjust Agent  
+# AI Image Generator, Blender & Auto-Adjust Agent  
 A complete web-based AI image generation and compositing toolkit built using:
 
-- **Imagen Image Models (v1beta)**
-- **Canvas-based Blending Engine**
-- **Gemini 2.5 Flash Agent for Auto-Adjustment**
-- **Flask Python Backend**
+- Imagen Image Models (v1beta)
+- Canvas-based Blending Engine
+- Gemini 2.5 Flash Agent for Auto-Adjustment
+- Flask Python Backend
 
 This project enables generation of AI-based backgrounds and foregrounds, automatic background removal, intelligent foreground placement using an AI agent, and downloadable composite output.
 
-## 🚀 Features
+# Features
 - Background + foreground generation using **Imagen**
 - Auto-adjust using **Gemini Agent**
 - Canvas-based blending engine
@@ -16,7 +16,7 @@ This project enables generation of AI-based backgrounds and foregrounds, automat
 - Download final PNG output
 - Full manual control of transformations & filters
 
-## 📂 Project Structure
+# Project Structure
 /frontend
   - index.html  
   - api.js  
@@ -27,7 +27,7 @@ This project enables generation of AI-based backgrounds and foregrounds, automat
 /backend  
   - app.py (Gemini Auto-Adjust Backend)
 
-## ⚙️ Setup Instructions
+# Setup Instructions
 Install requirements:
 ```
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ Run frontend using Live Server or:
 python -m http.server
 ```
 
-## 🛠️ Requirements
+# Requirements
 Flask  
 Flask-CORS  
 google-generativeai  
@@ -56,6 +56,6 @@ NumPy
 OpenCV  
 Requests
 
-## 📄 License
+# License
 MIT License © 2025
 "# AI-Powered-Intelligent-Image-Composer" 
